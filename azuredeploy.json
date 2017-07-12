@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "defaultValue": "BotBuilder-Samples",
+      "defaultValue": "GEEX-ARTA-CHANNELS",
       "type": "string"
     },
     "hostingPlanName": {
@@ -39,7 +39,7 @@
     },
     "Project": {
       "type": "string",
-      "defaultValue": "Node/intelligence-LUIS"
+      "defaultValue": "GEEX-ARTA-CHANNELS"
     },
     "WEBSITE_NODE_DEFAULT_VERSION": {
       "type": "string",
